@@ -1,0 +1,4 @@
+.env
+
+# Ignore local environment files
+*.env
